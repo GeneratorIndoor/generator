@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Root>
+  <Month Name= 'Jan'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+<Month Name= 'Feb'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>    
+  </Month>
+<Month Name= 'Mar'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 71437 +SBI GACHIBOWLI HYDERABAD-' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 71437 +SBI GACHIBOWLI HYDERABAD-' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+<Month Name= 'Apr'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+<Month Name= 'May'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Credit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Jun'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Jul'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Aug'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Sep'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Oct'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Nov'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+  <Month Name= 'Dec'>
+    <Date vaue='1' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='4' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2500'/>
+    <Date vaue='7' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='20000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='8' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='1000'/>
+    <Date vaue='10' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='16' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='200'/>
+    <Date vaue='17' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2800'/>
+    <Date vaue='19' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='500'/>
+    <Date vaue='22' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='23' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='10000'/>
+    <Date vaue='24' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='25' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='2000'/>
+    <Date vaue='26' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='5000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='6000'/>
+    <Date vaue='29' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='8000'/>
+    <Date vaue='30' TransactionName='ATM WDL-ATM CASH 72751+AYYAPPA SOCIETY' TransactionTYpe='Debit' Ammount='9000'/>
+  </Month>
+</Root>
